@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I am Maram Alfaraj<br>🫡 A passionate frontend developer looking forward to becoming a professional React developer.<br><br>✔️ Welcome to my GitHub profile! Feel free to view my projects.<br><br>🔭 I’m currently working on an e-commerce MERN full-stack project.<br>👯 I’m looking to collaborate in developing React web projects.<br>🤝 I’m looking for help with finding a position as a React developer.<br>🌱 I’m currently learning MERN full-stack development with Integrify.<br><br>⚡ Fun fact: within less than 4 months I have learned about full-stack development more than what I learned within 5 years in college! 🤩
+👋 Hello, I am Maram Alfaraj<br>🫡 A passionate frontend developer looking forward to becoming a professional React developer.<br>✔️ Welcome to my GitHub profile! Feel free to view my projects.<br><br>🔭 I’m currently working on an e-commerce MERN full-stack project.<br>👯 I’m looking to collaborate in developing React web projects.<br>🤝 I’m looking for help with finding a position as a React developer.<br>🌱 I’m currently learning MERN full-stack development with Integrify.<br><br>⚡ Fun fact: within less than 4 months I have learned about full-stack development more than what I learned within 5 years in college! 🤩
 
 
 ## 🌐 Socials:
