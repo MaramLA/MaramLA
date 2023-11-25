@@ -60,8 +60,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaramLA&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<br/><br/>
-
+<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=MaramLA&icon=5&color=6)](https://visitcount.itsvg.in)
 
