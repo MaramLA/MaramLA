@@ -55,8 +55,4 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaramLA&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MaramLA&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
