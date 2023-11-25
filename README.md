@@ -6,12 +6,12 @@
 
 I'm eager to bring my skills to a team that values a proactive and innovative approach to frontend development. If you or your organization seeks a passionate and forward-thinking frontend developer, I'd love to discuss how my skills align with your goals 🤝 Feel free to explore my projects on GitHub or reach out via email at maramlutfi.alfaraj@gmail.com.
 
-<br/><br/><br/>
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/m.l.a_2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alfaraj/) 
 
-<br/><br/><br/>
+<br/>
 
 ## 💻 Languages and Tools:
 
