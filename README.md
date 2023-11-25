@@ -11,7 +11,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/m.l.a_2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alfaraj/) 
 
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
@@ -29,6 +29,10 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
