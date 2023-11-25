@@ -9,7 +9,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 <br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/m.l.a_2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alfaraj/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.l.a_2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maram-alfaraj) 
 
 <br/>
 
@@ -46,13 +46,21 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 <br/><br/><br/>
                 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaramLA&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaramLA&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaramLA&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MaramLA&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaramLA&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaramLA&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MaramLA&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaramLA&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
