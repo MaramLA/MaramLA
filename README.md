@@ -12,7 +12,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/m.l.a_2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-alfaraj/) 
 
 ## 💻 Languages and Tools:
-<div>
+
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -41,7 +41,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
           
-</div>
+<br/>
                 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaramLA&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
