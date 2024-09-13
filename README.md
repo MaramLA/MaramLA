@@ -2,9 +2,9 @@
 
 ** `Passionate Frontend Developer` **
 
-👋 Hi, I'm Maram, a dedicated Computer Science graduate with a passion for frontend web development using React. I focus on crafting visually appealing websites and designing user interfaces that enhance the overall user experience. My journey in web development has equipped me with a robust skill set spanning HTML, CSS, JavaScript, TypeScript, React, Redux, Figma, PHP, and more. I'm constantly learning and currently enhancing my full-stack skills through a MERN bootcamp and intensive online courses. I'm driven to apply my expertise in web development and UX/UI design to contribute to forward-thinking organizations committed to continuous growth and innovation 🤩
+👋 Hi, I'm Maram, a passionate web developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
 
-I'm eager to bring my skills to a team that values a proactive and innovative approach to frontend development. If you or your organization seeks a passionate and forward-thinking frontend developer, I'd love to discuss how my skills align with your goals 🤝 Feel free to explore my projects on GitHub or reach out via email at maramlutfi.alfaraj@gmail.com.
+I'm eager to bring my skills to a team that values a proactive and innovative approach to development. Feel free to explore my projects on GitHub or reach out via email at maramlutfi.alfaraj@gmail.com.
 
 <br/>
 
