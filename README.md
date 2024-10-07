@@ -1,6 +1,6 @@
 # 💫 Maram Alfaraj
 
-** `Passionate Frontend Developer` **
+** `Backend Developer` **
 
 👋 Hi, I'm Maram, a passionate web developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
 
