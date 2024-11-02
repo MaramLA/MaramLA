@@ -2,7 +2,7 @@
 
 ** `Backend Developer | MERN Stack Developer` **
 
-👋 Hi, I'm Maram, a passionate web developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
+👋 Hi, I'm Maram, a passionate full stack developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
 
 I'm eager to bring my skills to a team that values a proactive and innovative approach to development. Feel free to explore my projects on GitHub or reach out via email at maramlutfi.alfaraj@gmail.com.
 
