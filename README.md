@@ -1,6 +1,6 @@
 # 💫 Maram Alfaraj
 
-** `Backend Developer | MERN Stack Developer` **
+** `Full Stack Developer` **
 
 👋 Hi, I'm Maram, a passionate full stack developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
 
