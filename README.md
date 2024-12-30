@@ -15,7 +15,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 
 ## 💻 Languages and Tools:
 
-<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000](https://icons8.com/icon/9ESZMOeUioJS/nestjs" />
+<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
@@ -25,7 +25,7 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/38561/postgresql" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />
 
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
