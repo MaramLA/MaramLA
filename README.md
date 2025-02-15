@@ -1,8 +1,12 @@
 # 💫 Maram Alfaraj
 
-** `Full Stack Developer` **
+** `Backend-Focused Full Stack Developer` **
 
-👋 Hi, I'm Maram, a passionate full stack developer. My ultimate goal is to excel as a proficient web developer, contribute to meaningful industry projects, and help deliver a satisfying user experience through learning high-quality coding mechanisms.🤩
+👋 Hi, I'm Maram, ambitious Backend Developer with 1+ years of experience in building scalable, high-performance backend systems using Node.js, Nest.js, and Express.js. Adept at designing RESTful APIs, optimizing database performance, and implementing authentication and
+learning utilizing microservices architecture. Passionate about backend engineering, system scalability, and performance
+optimization. With a solid foundation in full-stack development, I am now fully focused on mastering backend technologies to
+deliver secure, efficient, and robust solutions. Seeking a challenging role to contribute my expertise and grow within a dynamic,
+tech-driven environment..🤩
 
 I'm eager to bring my skills to a team that values a proactive and innovative approach to development. Feel free to explore my projects on GitHub or reach out via email at maramlutfi.alfaraj@gmail.com.
 
