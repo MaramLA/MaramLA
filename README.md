@@ -21,8 +21,8 @@ I'm eager to bring my skills to a team that values a proactive and innovative ap
 
 <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
 
-<img align="left" alt="Go" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Go" width="40px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
